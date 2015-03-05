@@ -1,2 +1,2 @@
 # hello-world
-test repository
+Erin Hodgson, F, 32 years, Dunedin, New Zealand
